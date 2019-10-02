@@ -1,18 +1,18 @@
 {
-  "name": "@sermons/reveal-skel",
-  "repository": "sermons/reveal-skel",
-  "description": "A template for Reveal.js-based presentations",
+  "name": "@sermons/net-worth",
+  "repository": "sermons/net-worth",
+  "description": "Lk12:13-21 Net Worth",
   "keywords": [
     "slides",
-    "lectures",
-    "talks",
-    "ppt"
+    "sermon",
+    "luke",
+    "money"
   ],
   "version": "1.7.3",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
-    "pretty_url": "reveal-skel.seanho.com",
-    "cname": "reveal-skel.seanho.com",
+    "pretty_url": "net-worth.seanho.com",
+    "cname": "net-worth.seanho.com",
     "multiplex": {
       "url": "https://mp.seanho.com/",
       "id": "22bc761ffc97809b"
@@ -23,14 +23,14 @@
     },
     "history": [
       {
-        "venue": "Venue of talk",
-        "city": "Location",
-        "date": "2000-01-01",
+        "venue": "Pacific Grace MB Church",
+        "city": "South Vancouver",
+        "date": "2019-10-06",
         "duration": 0
       }
     ],
     "slides": [
-      "slides/sample.md"
+      "slides/slides.md"
     ],
     "reveal": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0",
     "mathjax": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js",
