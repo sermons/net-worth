@@ -1,4 +1,4 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-6jYoil2GhVk-kid_reading_silhouette.jpg") %> id="title" -->
 # Net Worth
 ## Luke 12:13-21
 
@@ -98,15 +98,18 @@ and is not rich toward God.”
 [Luke 12:13-21 (ESV) (p.5/5)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-6jYoil2GhVk-kid_reading_silhouette.jpg") %> id="outline" class="outline" -->
 ## Net Worth [(Luke 12:13-21)](# "ref")
 1. Doubting God's **Justice** [(v13-15)](# "ref")
 1. Dreaming **Upside Down** [(v16-19)](# "ref")
 1. Discovering the **Treasure** [(v20-21)](# "ref")
 
 >>>
-1. worry: what others have
-2. poor solution: store up for self, rest
-3. real solution: store up toward God
++ we don't have what **others** have
+  + it's not **fair**
++ **parable**: what if we achieved all our **dreams**?
+  + what if pursuing the **wrong** things?
++ what has **lasting** value?
 
 ---
 “Teacher, **tell** my brother to <br>
@@ -193,6 +196,7 @@ who gave himself as a **ransom** for all
   + but pursuing His **kingdom**:
 
 ---
+<!-- .slide: <%= bg("unsplash-0sPFjdcRhko-coins.jpg") %> -->
 And he said to them, <br>
 “**Take care**, and be on your **guard** <br>
 against all **covetousness** 
@@ -237,7 +241,11 @@ that plunge people into **ruin** and destruction
   + protect from **covetousness**
 
 ---
-## 
+<!-- .slide: <%= bg("unsplash-6jYoil2GhVk-kid_reading_silhouette.jpg") %> class="outline" -->
+## Net Worth [(Luke 12:13-21)](# "ref")
+1. Doubting God's Justice [(v13-15)](# "ref")
+1. **Dreaming Upside Down** [(v16-19)](# "ref")
+1. Discovering the Treasure [(v20-21)](# "ref")
 
 >>>
 + Jesus tells **story**:
@@ -313,7 +321,11 @@ pitiable, **poor**, blind, and **naked**.
   + of **retirement**?
 
 ---
-## 
+<!-- .slide: <%= bg("unsplash-6jYoil2GhVk-kid_reading_silhouette.jpg") %> class="outline" -->
+## Net Worth [(Luke 12:13-21)](# "ref")
+1. Doubting God's Justice [(v13-15)](# "ref")
+1. Dreaming Upside Down [(v16-19)](# "ref")
+1. **Discovering the Treasure** [(v20-21)](# "ref")
 
 >>>
 
