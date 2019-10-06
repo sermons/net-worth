@@ -7,6 +7,17 @@
 + Rev3:17 Laodiceans rich in wrong things
 + 2Cor6:10 have nothing / possess all
 
+---
+<!-- .slide: data-background="white" -->
+# 
+
+---
+## Luke 12: Priorities of the Kingdom of God
++ Reputation [(v1-12)](# "ref")
++ What Others Have [(v13-21)](# "ref")
++ Not Having Enough [(v22-34)](# "ref")
++ Ready for Action [(v35-59)](# "ref")
+
 ******
 [13](# "ref")
 Someone in the crowd said to him,<br>
@@ -68,7 +79,12 @@ and is not rich toward God.”
 [Luke 12:13-21 (ESV) (p.5/5)](# "ref")
 
 ---
+## outline
 
+>>>
+1. worry: what others have
+2. poor solution: store up for self, rest
+3. real solution: store up toward God
 
 ---
 “Teacher, tell my brother to <br>
