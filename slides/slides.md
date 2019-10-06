@@ -310,27 +310,56 @@ pitiable, **poor**, blind, and **naked**.
 ---
 ## 
 
+>>>
+
 ---
 But God said to him, ‘**Fool!**<br>
-This night your soul is **required** of you,<br>
+This night your **soul** is **required** of you,<br>
 and the things you have **prepared**,<br>
 whose will they be?’
 
 [Luke 12:20 (ESV)](# "ref")
 
 >>>
-+ fool: unthinking, w/o discern
-+ required: asked
-  + e.g., police demand ID
-+ prepared: plan, made ready
-+ to what will they be?
-  + won't count for much
++ when rich man was thinking **happy thoughts**
+  + **secure** in built wealth
++ **fool**: unthinking, w/o discern
++ **required**: asked
+  + e.g., police demand to see **ID**
+  + God has **auth** to take our **life**
++ **prepared**: plan, made ready
+  + felt **secure** bc of plan
++ what will they **amount** to?
+  + all my **wealth**, credentials, accomplish
+  + will be as **nothing**
 
 ---
 One's **life** does not consist <br>
-in the **abundance** of his possessions.
+in the abundance of his **possessions**.
 
 [Luke 12:15b (ESV)](# "ref")
+
+>>>
++ more **things** we have, more **worries**
+  + e.g., **house**, bsmt flood
+  + "didn't realise that being an adult involved so much **fighting** for yourself"
+  + fight **strata**, insurance, ICBC, etc.
++ these all **add** on to my life on earth
++ they do not **constitute** my life
+
+---
+For **life** is more than **food**, <br>
+and the **body** more than **clothing**
+
+[Luke 12:23 (ESV)](# "ref")
+
+>>>
++ God will take care of our **needs**
++ you are **worth** more than your possessions
+  + or **productivity**, accomplishments
++ your life is **precious**
+  + because **God** deems it so!
++ follow God's **value** system:
 
 ---
 So is the one <br>
@@ -340,11 +369,47 @@ and is not rich toward **God**.”
 [Luke 12:21 (ESV)](# "ref")
 
 >>>
-+ store up, savings acct
++ **work** hard, **store** up, 
+  + pursue that which is **precious**:
++ but not fleeting riches of this **world**
+  + accumulating things for **self**
++ what does **God** value?
+  + to the **rich**, God says:
+
+---
+They are to **do good**, to be rich in **good works**,<br>
+to be **generous** and ready to **share**,
+
+[19](# "ref")
+thus storing up **treasure** for themselves <br>
+as a good **foundation** for the future, 
+
+so that they may take hold <br>
+of that which is **truly life**.
+
+[1 Timothy 6:18-19 (ESV)](# "ref")
+
+>>>
++ don't **hoard** riches for self
+  + **share** generously
++ knowing the money is not real **treasure**
+  + new **life** in Christ is the treasure
++ both now and for the life **to come**
 
 ---
 <!-- .slide: data-background="white" -->
-# 
+# Have I been **rich** for **myself** but not toward **God**?
+
+>>>
++ I **work** so hard,
+  + spend **time**, energy, **worry**
++ for what **goal**?
+  + to **protect** myself / loved ones?
+  + provide for daily **needs**?
+  + prepare for **retirement**?
++ have I **neglected** the real **treasure**?
++ The **Master** is **returning** soon:
+  + am I being a **faithful** steward?
 
 ---
 And he said to them, <br>
@@ -363,7 +428,6 @@ ______
   + rich young man: treasure in heaven
   + Lk16:9-10 make friends out of Mammon of unrighteousness
 + (Jm 1:10 rich boast in lowness)
-+ 1Tim6:17-19 rich in works, treasure up foundation
 + 2Cor6:10 have nothing / possess all
 + v6-7 worth more than sparrows
 
