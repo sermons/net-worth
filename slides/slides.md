@@ -3,7 +3,9 @@
 ## Luke 12:13-21
 
 >>>
-+ use of money: rich young man: treasure in heaven
++ use of money (next week?):
+  + v33 sell possessions
+  + rich young man: treasure in heaven
   + Lk16:9-10 make friends out of Mammon of unrighteousness
 + (Jm 1:10 rich boast in lowness)
 + 1Tim6:17-19 rich in works, treasure up foundation
@@ -15,11 +17,13 @@
 # 
 
 ---
-## Luke 12: Priorities of the Kingdom of God
-+ Reputation [(v1-12)](# "ref")
-+ What Others Have [(v13-21)](# "ref")
-+ Not Having Enough [(v22-34)](# "ref")
-+ Ready for Action [(v35-59)](# "ref")
+<!-- .slide: class="outline" -->
+## Luke 12: Priorities of <br> the Kingdom of God
++ No Fear of Disrepute [(v1-12)](# "ref")
++ No Fear of Falling Behind [(v13-21)](# "ref")
++ No Fear of Running Out [(v22-34)](# "ref")
++ Faithful Stewards [(v35-48)](# "ref")
++ Fire Upon the Earth [(v49-59)](# "ref")
 
 ******
 [13](# "ref")
@@ -82,7 +86,7 @@ and is not rich toward God.”
 [Luke 12:13-21 (ESV) (p.5/5)](# "ref")
 
 ---
-## outline
+## 
 
 >>>
 1. worry: what others have
@@ -117,6 +121,9 @@ against all **covetousness**
 + desire more, what others have
 
 ---
+## 
+
+---
 “The land of a rich man **produced** plentifully,<br>
 [17](# "ref")
 and he thought to himself, ‘What shall I do,<br>
@@ -149,6 +156,9 @@ you have ample **goods** laid up for many **years**;<br>
 + years: security for the future
 + relax: pause, retire
 + merry: think happy/good thoughts
+
+---
+## 
 
 ---
 But God said to him, ‘**Fool!**<br>
