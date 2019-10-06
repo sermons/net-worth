@@ -2,17 +2,6 @@
 # Net Worth
 ## Luke 12:13-21
 
->>>
-+ use of money (next time?):
-  + v33 sell possessions
-  + rich young man: treasure in heaven
-  + Lk16:9-10 make friends out of Mammon of unrighteousness
-+ (Jm 1:10 rich boast in lowness)
-+ 1Tim6:17-19 rich in works, treasure up foundation
-+ Rev3:17 Laodiceans rich in wrong things
-+ 2Cor6:10 have nothing / possess all
-+ v6-7 worth more than sparrows
-
 ---
 <!-- .slide: data-background="white" -->
 # What is the **value** of your life?
@@ -233,6 +222,7 @@ that plunge people into **ruin** and destruction
   + but ultimately **ruins** us
 
 ---
+<!-- .slide: data-background="white" -->
 # In what do I feel God is **unfair**?
 
 >>>
@@ -245,6 +235,10 @@ that plunge people into **ruin** and destruction
 
 ---
 ## 
+
+>>>
++ Jesus tells **story**:
++ what if you got **everything** you wanted?
 
 ---
 “The land of a rich man **produced** plentifully,<br>
@@ -260,11 +254,13 @@ and there I will store all my grain and my **goods**.
 [Luke 12:16-18 (ESV)](# "ref")
 
 >>>
-+ produce: legit biz, not stolen
-  + but also: blessed by God
-+ store up / barns: to have, to place
-  + not share, sell, distrib
-+ goods: good things, finer things of life
++ **produced**: legit biz, not stolen
+  + **hard work** yields **earnings**
+  + but also: **blessed** by God
++ what to **do** with these earnings?
+  + store up / **barns**: to have, to place
+  + not **share**, sell, distrib
++ goods: **good things**, finer things of life
 
 ---
 And I will say to my soul, “**Soul**,<br>
@@ -274,11 +270,42 @@ you have ample **goods** laid up for many **years**;<br>
 [Luke 12:19 (ESV)](# "ref")
 
 >>>
-+ soul: breath, life
-+ goods: good things
-+ years: security for the future
-+ relax: pause, retire
-+ merry: think happy/good thoughts
++ isn't that the **purpose** of working hard?
+  + **save up** good things
++ so I can comfort my own **soul**:
+  + **security** for the future, many years
+  + **retire**: relax, pause, cease work
+  + physical **needs** are taken care of
+  + think **happy** / good thoughts
++ is this our **goal** in life?
++ Rev 3 to church in Laodikaea, a church of 
+  + much **accomplishment** + wealth:
+
+---
+For you say, "I am **rich**, I have **prospered**, <br>
+and I **need nothing**",
+
+not realizing that you are **wretched**, <br>
+pitiable, **poor**, blind, and **naked**.
+
+>>>
++ **working** hard to climb **higher**
+  + achive **more**
+  + gain **independence**
++ get to the **top**:
+  + reach up to touch the **ground**
++ realize I've been **upside down** the whole time
+
+---
+<!-- .slide: data-background="white" -->
+# What if I got **everything** I ever **wanted**?
+
+>>>
++ what if all along I was chasing after the **wrong** things?
++ what is the **goal** of going to **school**?
+  + of having a **career**?
+  + of raising a **family**?
+  + of **retirement**?
 
 ---
 ## 
@@ -300,6 +327,12 @@ whose will they be?’
   + won't count for much
 
 ---
+One's **life** does not consist <br>
+in the **abundance** of his possessions.
+
+[Luke 12:15b (ESV)](# "ref")
+
+---
 So is the one <br>
 who lays up **treasure** for himself<br>
 and is not rich toward **God**.”
@@ -310,11 +343,27 @@ and is not rich toward **God**.”
 + store up, savings acct
 
 ---
+<!-- .slide: data-background="white" -->
+# 
+
+---
 And he said to them, <br>
-“Take care, and be on your guard <br>
-against all covetousness, 
+“Take **care**, and be on your **guard** <br>
+against all **covetousness**, 
 
 for one's **life** does not consist <br>
-in the **abundance** of his possessions.” 
+in the abundance of his **possessions**.” 
 
-[Luke 12:15b (ESV)](# "ref")
+[Luke 12:15 (ESV)](# "ref")
+
+>>>
+______
++ use of money (next time?):
+  + v33 sell possessions
+  + rich young man: treasure in heaven
+  + Lk16:9-10 make friends out of Mammon of unrighteousness
++ (Jm 1:10 rich boast in lowness)
++ 1Tim6:17-19 rich in works, treasure up foundation
++ 2Cor6:10 have nothing / possess all
++ v6-7 worth more than sparrows
+
