@@ -12,7 +12,7 @@
 + e.g., wrongful death **lawsuit**:
   + **productivity**, future **earnings**
   + what you can **contribute**
-+ think we **build value** as we accum
++ think we **build value** by accum
   + possessions
   + skills + credentials
   + experiences / bucket list
@@ -26,7 +26,7 @@
 ## Luke 12: Priorities of <br> the Kingdom of God
 + Not Man's **Affirmation** [(v1-12)](# "ref")
 + Not Building **Wealth** [(v13-21)](# "ref")
-+ Not Health and **Security** [(v22-34)](# "ref")
++ Not Health/**Security** [(v22-34)](# "ref")
 + Faithful **Stewardship** [(v35-48)](# "ref")
 + **Fire** Upon the Earth [(v49-59)](# "ref")
 
@@ -111,7 +111,7 @@ and is not rich toward God.”
 >>>
 + we don't have what **others** have
   + it's not **fair**
-+ **parable**: what if we achieved all our **dreams**?
++ **parable**: what if achieve our **dreams**?
   + what if pursuing the **wrong** things?
 + what has **lasting** value?
 
@@ -124,12 +124,13 @@ divide the **inheritance** with me.”
 [Boys Town, US. Andrew Seaman](https://unsplash.com/photos/ey5zZOkYL0Q "caption")
 
 >>>
-+ inheritance: not earned but given by **family** right
++ inheritance: not **earned**
+  + but given by **family** right
   + **name** of family, **blessing** of father
   + not **fair**: favouritism
 + tell my brother: recog Jesus' **auth**
   + but **directing** that auth
-+ Jesus in home of sisters Mary + **Martha**
++ Jesus w/ sisters Mary + **Martha**
 
 ---
 <!-- .slide: <%= bg("Allori_Martha_Mary_1605.jpg") %> -->
@@ -150,7 +151,8 @@ has left me to serve alone? <br>
 ---
 <!-- .slide: <%= bg("unsplash-9z9fxr_7Z-k-gavel.jpg") %> -->
 But he said to him, “Man, <br>
-who made me a **judge** or arbitrator over you?” 
+who made me a **judge** <br>
+or arbitrator over you?” 
 
 [Luke 12:14 (ESV)](# "ref")
 [Wesley Tingey](https://unsplash.com/photos/9z9fxr_7Z-k "caption")
@@ -164,7 +166,8 @@ who made me a **judge** or arbitrator over you?”
 
 ---
 <!-- .slide: <%= bg("earth.jpg") %> -->
-As the Father raises the **dead** and gives them **life**,<br>
+As the Father raises the **dead** <br>
+and gives them **life**,<br>
 so also the Son gives life **to whom he will**.
 
 [22](# "ref")
@@ -174,14 +177,17 @@ but has **given all judgment** to the Son.
 [John 5:21-22 (ESV)](# "ref")
 
 >>>
-+ authority comes from God, **Author** of life
++ **authority** comes from God
+  + **Author** of life
   + **given** to Jesus the Son
-+ that we **live** and have hope of **eternal** life
++ that we **live** and
+  + have hope of **eternal** life
   + is only by His **grace**
 
 ---
 <!-- .slide: <%= bg("unsplash-9z9fxr_7Z-k-gavel.jpg") %> -->
-Who made me a judge or **arbitrator** over you?
+Who made me a judge <br>
+or **arbitrator** over you?
 
 [Luke 12:14 (ESV)](# "ref")
 
@@ -193,7 +199,8 @@ Who made me a judge or **arbitrator** over you?
 ---
 <!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
 For there is **one God**, <br>
-and there is **one mediator** between God and men, <br>
+and there is **one mediator** <br>
+between God and men, <br>
 the man **Christ Jesus**, <br>
 [6](# "ref")
 who gave himself as a **ransom** for all 
@@ -202,10 +209,11 @@ who gave himself as a **ransom** for all
 [Aaron Burden](https://unsplash.com/photos/09AhDCedXF8 "caption")
 
 >>>
-+ this is the **testimony** God entrusted to us
++ this is **testimony** God entrust to us
 + Jesus has **auth** to decide
   + but not at our **behest**
-+ His judgment reminds us of the real **priorities**
++ His judgment reminds us of
+  + the real **priorities**
   + not building **wealth**
   + but pursuing His **kingdom**:
 
@@ -221,7 +229,7 @@ against all **covetousness**
 >>>
 + **watch**: be observant, inspect
   + materialism can **sneak** up on you
-+ as we see what **others** have that we don't
++ what **others** have that we don't
   + covet: desire for **more**
   + **discontent** w/what I have
 + **guard**: keep, protect, as prison
@@ -239,7 +247,7 @@ that plunge people into **ruin** and destruction
 [Steve Johnson](https://unsplash.com/photos/0sPFjdcRhko "caption")
 
 >>>
-+ God's **blessings** received w/thanksgiving
++ God's **blessings** rcvd w/thanks
   + **shared** generously with all
 + but we should not **want** to be rich
 + **snare**: looks good
@@ -251,8 +259,8 @@ that plunge people into **ruin** and destruction
 
 >>>
 + brothers: division of **inheritance**
-  + Mary+Martha: division of **workload**
-  + **loved** less by parents
+  + Mary+Martha: div **workload**
+  + feel **loved** less by parents
 + "Jesus, **tell** them ..."
 + **inspect** own heart
   + protect from **covetousness**
@@ -302,7 +310,7 @@ you have ample **goods** laid up for many **years**;<br>
 [Vita Vilcina, Spain](https://unsplash.com/photos/KtOid0FLjqU "caption")
 
 >>>
-+ isn't that the **purpose** of working hard?
++ isn't that **purpose** of hard work?
   + **save up** good things
 + so I can comfort my own **soul**:
   + **security** for the future, many years
@@ -310,7 +318,7 @@ you have ample **goods** laid up for many **years**;<br>
   + physical **needs** are taken care of
   + think **happy** / good thoughts
 + is this our **goal** in life?
-+ Rev 3 to church in Laodikaea, a church of 
++ Rev 3 to church in **Laodikaea**:
   + much **accomplishment** + wealth:
 
 ---
@@ -364,7 +372,7 @@ whose will they be?’
 [Ju On](https://unsplash.com/photos/e6XsI7qqvAA "caption")
 
 >>>
-+ when rich man was thinking **happy thoughts**
++ rich thinking **happy thoughts**
   + **secure** in built wealth
 + **fool**: unthinking, w/o discern
 + **required**: asked
@@ -373,7 +381,7 @@ whose will they be?’
 + **prepared**: plan, made ready
   + felt **secure** bc of plan
 + what will they **amount** to?
-  + all my **wealth**, credentials, accomplish
+  + my **wealth**, cred, accomplish
   + will be as **nothing**
 
 ---
@@ -402,7 +410,8 @@ and the **body** more than **clothing**
 
 >>>
 + God will take care of our **needs**
-+ you are **worth** more than your possessions
++ you are **worth** more than 
+  + your possessions
   + or **productivity**, accomplishments
 + your life is **precious**
   + because **God** deems it so!
@@ -441,7 +450,7 @@ of that which is **truly life**.
 >>>
 + don't **hoard** riches for self
   + **share** generously
-+ knowing the money is not real **treasure**
++ money is not real **treasure**
   + new **life** in Christ is the treasure
 + both now and for the life **to come**
 
