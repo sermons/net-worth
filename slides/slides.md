@@ -3,6 +3,9 @@
 ## Luke 12:13-21
 
 >>>
++ use of money: rich young man: treasure in heaven
+  + Lk16:9-10 make friends out of Mammon of unrighteousness
++ (Jm 1:10 rich boast in lowness)
 + 1Tim6:17-19 rich in works, treasure up foundation
 + Rev3:17 Laodiceans rich in wrong things
 + 2Cor6:10 have nothing / possess all
