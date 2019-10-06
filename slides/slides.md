@@ -98,7 +98,10 @@ and is not rich toward God.”
 [Luke 12:13-21 (ESV) (p.5/5)](# "ref")
 
 ---
-## 
+## Net Worth [(Luke 12:13-21)](# "ref")
+1. Doubting God's **Justice** [(v13-15)](# "ref")
+1. Dreaming **Upside Down** [(v16-19)](# "ref")
+1. Discovering the **Treasure** [(v20-21)](# "ref")
 
 >>>
 1. worry: what others have
@@ -238,7 +241,7 @@ that plunge people into **ruin** and destruction
 
 >>>
 + Jesus tells **story**:
-+ what if you got **everything** you wanted?
++ what if you got **everything** you dreamed for?
 
 ---
 “The land of a rich man **produced** plentifully,<br>
@@ -301,7 +304,9 @@ pitiable, **poor**, blind, and **naked**.
 # What if I got **everything** I ever **wanted**?
 
 >>>
-+ what if all along I was chasing after the **wrong** things?
++ **envision** attaining all my **dreams**
++ but what if all along I was chasing 
+  + after the **wrong** things?
 + what is the **goal** of going to **school**?
   + of having a **career**?
   + of raising a **family**?
