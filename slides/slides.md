@@ -2,6 +2,8 @@
 # Net Worth
 ## Luke 12:13-21
 
+[Aaron Burden](https://unsplash.com/photos/6jYoil2GhVk "caption")
+
 ---
 <!-- .slide: data-background="white" -->
 # What is the **value** of your life?
@@ -20,13 +22,15 @@
   + what is of **value** to God
 
 ---
-<!-- .slide: class="outline" -->
+<!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> class="outline" -->
 ## Luke 12: Priorities of <br> the Kingdom of God
 + Not Man's **Affirmation** [(v1-12)](# "ref")
 + Not Building **Wealth** [(v13-21)](# "ref")
 + Not Health and **Security** [(v22-34)](# "ref")
 + Faithful **Stewardship** [(v35-48)](# "ref")
 + **Fire** Upon the Earth [(v49-59)](# "ref")
+
+[Mark Basarab](https://unsplash.com/photos/1k5Qq4YQM0g "caption")
 
 >>>
 + what it means for God to be 
@@ -112,10 +116,12 @@ and is not rich toward God.”
 + what has **lasting** value?
 
 ---
+<!-- .slide: <%= bg("unsplash-ey5zZOkYL0Q-boys_window.jpg") %> -->
 “Teacher, **tell** my brother to <br>
 divide the **inheritance** with me.”
 
 [Luke 12:13 (ESV)](# "ref")
+[Boys Town, US. Andrew Seaman](https://unsplash.com/photos/ey5zZOkYL0Q "caption")
 
 >>>
 + inheritance: not earned but given by **family** right
@@ -126,11 +132,13 @@ divide the **inheritance** with me.”
 + Jesus in home of sisters Mary + **Martha**
 
 ---
+<!-- .slide: <%= bg("Allori_Martha_Mary_1605.jpg") %> -->
 Lord, do you **not care** that my sister <br>
 has left me to serve alone? <br>
 **Tell her** then to help me.
 
 [Luke 10:40 (ESV)](# "ref")
+["Christ at the House of Martha and Mary", <br> Alessandro Allori, 1605](https://www.flickr.com/photos/136733695@N04/40207015510 "caption")
 
 >>>
 + unfair **workload**
@@ -140,10 +148,12 @@ has left me to serve alone? <br>
   + "**Tell** her"
 
 ---
+<!-- .slide: <%= bg("unsplash-9z9fxr_7Z-k-gavel.jpg") %> -->
 But he said to him, “Man, <br>
 who made me a **judge** or arbitrator over you?” 
 
 [Luke 12:14 (ESV)](# "ref")
+[Wesley Tingey](https://unsplash.com/photos/9z9fxr_7Z-k "caption")
 
 >>>
 + **judge**: decide who is right
@@ -153,6 +163,7 @@ who made me a **judge** or arbitrator over you?”
   + but even our very **lives**:
 
 ---
+<!-- .slide: <%= bg("earth.jpg") %> -->
 As the Father raises the **dead** and gives them **life**,<br>
 so also the Son gives life **to whom he will**.
 
@@ -169,6 +180,7 @@ but has **given all judgment** to the Son.
   + is only by His **grace**
 
 ---
+<!-- .slide: <%= bg("unsplash-9z9fxr_7Z-k-gavel.jpg") %> -->
 Who made me a judge or **arbitrator** over you?
 
 [Luke 12:14 (ESV)](# "ref")
@@ -179,6 +191,7 @@ Who made me a judge or **arbitrator** over you?
 + but between man and **God**:
 
 ---
+<!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
 For there is **one God**, <br>
 and there is **one mediator** between God and men, <br>
 the man **Christ Jesus**, <br>
@@ -186,6 +199,7 @@ the man **Christ Jesus**, <br>
 who gave himself as a **ransom** for all 
 
 [1 Timothy 2:5-6 (ESV)](# "ref")
+[Aaron Burden](https://unsplash.com/photos/09AhDCedXF8 "caption")
 
 >>>
 + this is the **testimony** God entrusted to us
@@ -196,12 +210,13 @@ who gave himself as a **ransom** for all
   + but pursuing His **kingdom**:
 
 ---
-<!-- .slide: <%= bg("unsplash-0sPFjdcRhko-coins.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-sjynUnr9ikA-soldiers_standing.jpg") %> -->
 And he said to them, <br>
 “**Take care**, and be on your **guard** <br>
 against all **covetousness** 
 
 [Luke 12:15a (ESV)](# "ref")
+[Israeli soldiers. Timon Studler](https://unsplash.com/photos/sjynUnr9ikA "caption")
 
 >>>
 + **watch**: be observant, inspect
@@ -214,12 +229,14 @@ against all **covetousness**
   + **protect** it from greed/envy
 
 ---
+<!-- .slide: <%= bg("unsplash-0sPFjdcRhko-coins.jpg") %> -->
 Those who desire to be **rich** <br>
 fall into temptation, into a **snare**, <br>
 into many senseless and harmful **desires** <br>
 that plunge people into **ruin** and destruction
 
 [1 Timothy 6:9 (ESV)](# "ref")
+[Steve Johnson](https://unsplash.com/photos/0sPFjdcRhko "caption")
 
 >>>
 + God's **blessings** received w/thanksgiving
@@ -252,6 +269,7 @@ that plunge people into **ruin** and destruction
 + what if you got **everything** you dreamed for?
 
 ---
+<!-- .slide: <%= bg("unsplash-qVb-K2mFtDU-wheat.jpg") %> -->
 “The land of a rich man **produced** plentifully,<br>
 [17](# "ref")
 and he thought to himself, ‘What shall I do,<br>
@@ -263,6 +281,7 @@ I will tear down my **barns** and build larger ones,<br>
 and there I will store all my grain and my **goods**.
 
 [Luke 12:16-18 (ESV)](# "ref")
+[Seth Schwiet](https://unsplash.com/photos/qVb-K2mFtDU "caption")
 
 >>>
 + **produced**: legit biz, not stolen
