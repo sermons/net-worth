@@ -293,11 +293,13 @@ and there I will store all my grain and my **goods**.
 + goods: **good things**, finer things of life
 
 ---
+<!-- .slide: <%= bg("unsplash-KtOid0FLjqU-spain_house.jpg") %> -->
 And I will say to my soul, “**Soul**,<br>
 you have ample **goods** laid up for many **years**;<br>
 **relax**, eat, drink, be **merry**.”’
 
 [Luke 12:19 (ESV)](# "ref")
+[Vita Vilcina, Spain](https://unsplash.com/photos/KtOid0FLjqU "caption")
 
 >>>
 + isn't that the **purpose** of working hard?
@@ -312,11 +314,14 @@ you have ample **goods** laid up for many **years**;<br>
   + much **accomplishment** + wealth:
 
 ---
+<!-- .slide: <%= bg("unsplash-GWe0dlVD9e0-office.jpg") %> -->
 For you say, "I am **rich**, I have **prospered**, <br>
 and I **need nothing**",
 
 not realizing that you are **wretched**, <br>
 pitiable, **poor**, blind, and **naked**.
+
+[Benjamin Child](https://unsplash.com/photos/GWe0dlVD9e0 "caption")
 
 >>>
 + **working** hard to climb **higher**
@@ -349,12 +354,14 @@ pitiable, **poor**, blind, and **naked**.
 >>>
 
 ---
+<!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
 But God said to him, ‘**Fool!**<br>
 This night your **soul** is **required** of you,<br>
 and the things you have **prepared**,<br>
 whose will they be?’
 
 [Luke 12:20 (ESV)](# "ref")
+[Ju On](https://unsplash.com/photos/e6XsI7qqvAA "caption")
 
 >>>
 + when rich man was thinking **happy thoughts**
@@ -370,10 +377,12 @@ whose will they be?’
   + will be as **nothing**
 
 ---
+<!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> -->
 One's **life** does not consist <br>
 in the abundance of his **possessions**.
 
 [Luke 12:15b (ESV)](# "ref")
+[Mark Basarab](https://unsplash.com/photos/1k5Qq4YQM0g "caption")
 
 >>>
 + more **things** we have, more **worries**
@@ -384,10 +393,12 @@ in the abundance of his **possessions**.
 + they do not **constitute** my life
 
 ---
+<!-- .slide: <%= bg("unsplash-8GVGrjx82oo-smiling_child_chile.jpg") %> -->
 For **life** is more than **food**, <br>
 and the **body** more than **clothing**
 
 [Luke 12:23 (ESV)](# "ref")
+[Laguna de Icalma, Chile. Jorge Barahona](https://unsplash.com/photos/8GVGrjx82oo "caption")
 
 >>>
 + God will take care of our **needs**
@@ -398,6 +409,7 @@ and the **body** more than **clothing**
 + follow God's **value** system:
 
 ---
+<!-- .slide: <%= bg("negativespace-money.jpg") %> -->
 So is the one <br>
 who lays up **treasure** for himself<br>
 and is not rich toward **God**.”
@@ -413,6 +425,7 @@ and is not rich toward **God**.”
   + to the **rich**, God says:
 
 ---
+<!-- .slide: <%= bg("unsplash-0Hf3SuP-Muc-diamond_ring.jpg") %> -->
 They are to **do good**, to be rich in **good works**,<br>
 to be **generous** and ready to **share**,
 
@@ -448,6 +461,7 @@ of that which is **truly life**.
   + am I being a **faithful** steward?
 
 ---
+<!-- .slide: <%= bg("unsplash-6jYoil2GhVk-kid_reading_silhouette.jpg") %> -->
 And he said to them, <br>
 “Take **care**, and be on your **guard** <br>
 against all **covetousness**, 
@@ -457,8 +471,10 @@ in the abundance of his **possessions**.”
 
 [Luke 12:15 (ESV)](# "ref")
 
+---
+<!-- .slide: <%= bg("unsplash-6jYoil2GhVk-kid_reading_silhouette.jpg") %> class="empty" -->
+
 >>>
-______
 + use of money (next time?):
   + v33 sell possessions
   + rich young man: treasure in heaven
