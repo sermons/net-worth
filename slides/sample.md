@@ -34,13 +34,8 @@ Six underscores create a horizontal rule in the notes
 ******
 <!-- six stars create a vertical slide -->
 ## Point One
-```
-class BSTNode:
-  def __init__(self, key=None,
-      par=None, left=None, right=None):
-    (self.key, self.par) = (key, par)
-    (self.left, self.right) = (left, right)
 
+```
 class BST:
   def __init__(self):
     self.root = None
@@ -52,7 +47,6 @@ class BST:
       else if key &gt; cur.key: cur = cur.right
       else: return cur
 ```
-<!-- .element: data-line-numbers="14-17" -->
 
 ******
 <!-- .slide: data-background="white" -->
