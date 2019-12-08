@@ -255,7 +255,7 @@ that plunge people into **ruin** and destruction
 
 ---
 <!-- .slide: data-background="white" -->
-# In what do I feel God is **unfair**?
+# In what have I felt God to be **unfair**?
 
 >>>
 + brothers: division of **inheritance**
@@ -341,7 +341,7 @@ pitiable, **poor**, blind, and **naked**.
 
 ---
 <!-- .slide: data-background="white" -->
-# What if I got **everything** I ever **wanted**?
+# What if I got everything I ever **wanted**?
 
 >>>
 + **envision** attaining all my **dreams**
