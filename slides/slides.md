@@ -455,6 +455,24 @@ of that which is **truly life**.
 + both now and for the life **to come**
 
 ---
+In this you **rejoice**, though now <br>
+for a **little while**, if necessary, <br>
+you have been **grieved** by various trials, 
+
+[7](# "ref") 
+so that the **tested genuineness** <br>
+of your faith — more precious than **gold** <br>
+that perishes though it is tested by fire — 
+
+may be found to result in **praise** and glory <br>
+and honor at the **revelation** of Jesus Christ.
+
+[1 Peter 1:6-7 (ESV)](# "ref")
+
+>>>
++ in this: being **born again** to living hope
+
+---
 <!-- .slide: data-background="white" -->
 # Have I been **rich** for **myself** but not toward **God**?
 
