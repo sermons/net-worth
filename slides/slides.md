@@ -455,10 +455,18 @@ of that which is **truly life**.
 + both now and for the life **to come**
 
 ---
+<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
 In this you **rejoice**, though now <br>
 for a **little while**, if necessary, <br>
 you have been **grieved** by various trials, 
 
+[1 Peter 1:6-7 (ESV) (p.2/2)](# "ref")
+
+>>>
++ this: being **born again** to living hope
+
+---
+<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
 [7](# "ref") 
 so that the **tested genuineness** <br>
 of your faith — more precious than **gold** <br>
@@ -467,10 +475,14 @@ that perishes though it is tested by fire —
 may be found to result in **praise** and glory <br>
 and honor at the **revelation** of Jesus Christ.
 
-[1 Peter 1:6-7 (ESV)](# "ref")
+[1 Peter 1:6-7 (ESV) (p.2/2)](# "ref")
 
 >>>
-+ in this: being **born again** to living hope
++ to find treasure better than gold:
++ that our faith in God's promises
++ is not only lip service
++ but stands the test, proved true
++ This is being rich toward God
 
 ---
 <!-- .slide: data-background="white" -->
