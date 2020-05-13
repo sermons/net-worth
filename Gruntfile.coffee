@@ -2,28 +2,6 @@ module.exports = (grunt) ->
   grunt.initConfig
     pkg: grunt.file.readJSON 'package.json'
 
-    connect:
-      serve:
-        options:
-          port: 9000
-          hostname: 'localhost'
-          base: 'dist'
-
-    sass:
-      options:
-        implementation: require('node-sass')
-        includePaths: ['node_modules/reveal.js/css/theme/']
-        outputStyle: 'compressed'
-      theme:
-        files:
-          'dist/css/boldblack.css': 'scss/boldblack.scss'
-
-    exec:
-      print: 'decktape -s 1024x768 reveal "http://localhost:9000/" print.pdf --no-sandbox; true'
-      thumbnail: 'decktape -s 800x600 --screenshots --screenshots-directory . --slides 1 reveal "http://localhost:9000/#/title" dist/img/<%= pkg.shortname %>.jpg --no-sandbox; true'
-      reducePDF: 'gs -q -dNOPAUSE -dBATCH -dSAFER -dPDFSETTINGS=/ebook -sDEVICE=pdfwrite -sOutputFile=dist/<%= pkg.shortname %>.pdf print.pdf'
-      qr: 'echo https://<%= pkg.config.pretty_url %> | qrcode -o dist/img/<%= pkg.shortname %>-qr.png'
-
     copy:
       static:
         expand: true
@@ -45,11 +23,40 @@ module.exports = (grunt) ->
         src: 'node_modules/reveal.js/plugin/notes/*'
         dest: 'dist/js/'
 
+    sass:
+      options:
+        implementation: require('node-sass')
+        includePaths: ['node_modules/reveal.js/css/theme/']
+        outputStyle: 'compressed'
+      theme:
+        files: [{
+          expand: true
+          cwd: 'scss'
+          src: '*.scss'
+          dest: 'dist/css/'
+          ext: '.css'
+        }]
+
+    connect:
+      serve:
+        options:
+          port: 9000
+          hostname: 'localhost'
+          base: 'dist'
+
+    exec:
+      print: 'decktape -s 1024x768 reveal "http://localhost:9000/" print.pdf --no-sandbox; true'
+      thumbnail: 'decktape -s 800x600 --screenshots --screenshots-directory . --slides 1 reveal "http://localhost:9000/#/title" dist/img/<%= pkg.shortname %>.jpg --no-sandbox; true'
+      reducePDF: 'gs -q -dNOPAUSE -dBATCH -dSAFER -dPDFSETTINGS=/ebook -sDEVICE=pdfwrite -sOutputFile=dist/<%= pkg.shortname %>.pdf print.pdf'
+      qr: 'echo https://<%= pkg.config.pretty_url %> | qrcode -o dist/img/<%= pkg.shortname %>-qr.png'
+
   # Macros for convenience
   grunt.config.merge
     pkg:
       shortname: grunt.config('pkg.name').replace(/.*\//, '')
       commit: (process.env.TRAVIS_COMMIT || "testing").substr(0,7)
+      config:
+        pretty_url: grunt.config('pkg.config.cname') unless grunt.config('pkg.config.pretty_url')
     img: (id) ->
       'https://sermons.seanho.com/img/' + id
     bg: (id) ->
@@ -61,11 +68,6 @@ module.exports = (grunt) ->
 
   # Autoload tasks from grunt plugins
   require('load-grunt-tasks')(grunt)
-
-  grunt.registerTask 'cname',
-    'Create CNAME for Github Pages', ->
-      if grunt.config 'pkg.config.cname'
-        grunt.file.write 'dist/CNAME', grunt.config 'pkg.config.cname'
 
   grunt.registerTask 'install',
     '*Build* site', [
@@ -82,7 +84,6 @@ module.exports = (grunt) ->
       'exec:reducePDF'
       'exec:thumbnail'
       'exec:qr'
-      'cname'
     ]
 
   # Define default task.
