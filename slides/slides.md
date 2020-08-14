@@ -460,7 +460,7 @@ In this you **rejoice**, though now <br>
 for a **little while**, if necessary, <br>
 you have been **grieved** by various trials, 
 
-[1 Peter 1:6-7 (ESV) (p.2/2)](# "ref")
+[1 Peter 1:6-7 (ESV) (p.1/2)](# "ref")
 
 >>>
 + this: being **born again** to living hope
