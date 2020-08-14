@@ -1,7 +1,7 @@
 # Net Worth
 ## Luke 12:13-21
 
-[![Build status](https://api.travis-ci.org/sermons/net-worth.svg)](https://travis-ci.org/github/sermons/net-worth)
+[![Build status](https://api.travis-ci.com/sermons/net-worth.svg)](https://travis-ci.com/github/sermons/net-worth)
 [![Node deps](https://david-dm.org/sermons/net-worth.svg)](https://david-dm.org/sermons/net-worth)
 [![Node devDeps](https://david-dm.org/sermons/net-worth/dev-status.svg)](https://david-dm.org/sermons/net-worth?type=dev)
 
